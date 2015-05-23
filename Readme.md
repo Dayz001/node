@@ -1,2 +1,3 @@
 <h1> Node School Day </h1>
-!http://commons.wikimedia.org/wiki/Special:Filepath/Wikipedia-logo-en.png!
+
+<img src="http://jamespaulmuir.com/heweb14/nodejs-in-higher-education/images/nodeschool.png" >
